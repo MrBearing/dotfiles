@@ -56,3 +56,5 @@ groot:
 openocd:
 	./install/openocd/install.sh
 
+rust:
+	./install/rust/install.sh
