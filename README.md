@@ -32,7 +32,7 @@ make
 
 ## Optional Packages
 - docker & docker-compose
-- ros2 (galactic)
+- ros2 (humble)
 - vscode
 - Google Chrome
 
@@ -53,6 +53,5 @@ make config-ssh-server
 ```
 And it will ask
 - SSH port to open.
-- vnc password.
-- x11vnc forwarding port to open.
+
 
