@@ -1,8 +1,5 @@
-<img src="https://harvestx.jp/img/logo-red.svg" width="30%">
-
-
 # dotfiles
-HarvestX dotfiles for Unix shell.
+my dotfiles for Unix shell.
 
 This Repository contains installation script and configurations for essential tools.
 
